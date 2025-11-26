@@ -138,8 +138,6 @@ platforms:
     name: "知乎"
 
   # === 科技类平台 ===
-  - id: "ithome"
-    name: "IT之家"
   - id: "juejin"
     name: "掘金"
   - id: "github"
@@ -150,8 +148,6 @@ platforms:
     name: "Solidot"
   - id: "v2ex"
     name: "V2EX"
-  - id: "nowcoder"
-    name: "牛客网"
   - id: "pcbeta"
     name: "远景论坛"
   - id: "sspai"
@@ -159,6 +155,3 @@ platforms:
   - id: "producthunt"
     name: "ProductHunt"
 
-  # === 其他/工具类 ===
-  - id: "chongbuluo"
-    name: "虫部落"
